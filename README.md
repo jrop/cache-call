@@ -1,5 +1,7 @@
 # cache-call
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jrop/cache-call.svg)](https://greenkeeper.io/)
+
 > Cache a function call to a JSON file
 
 Useful for the following development scenarios:
